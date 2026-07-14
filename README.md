@@ -24,7 +24,7 @@ Do this once and Imager will always offer the latest Lunevo release:
 4. Select **Use Custom URL** and paste:
 
    ```
-   https://github.com/rmstep/lunevo-releases/releases/download/server-latest/os_list.json
+   https://getlunevo.com/imager
    ```
 
 5. Click **Apply & Restart**
