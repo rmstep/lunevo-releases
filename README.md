@@ -1,6 +1,6 @@
 # Lunevo — Releases
 
-Public releases for **Lunevo**, the whole-boat synchronized audio system:
+Public releases for **Lunevo**, the synchronized audio system:
 
 - **Server SD image** — flash this onto a Raspberry Pi to create a Lunevo device
 - **Android app** — sideload builds of the Lunevo client
